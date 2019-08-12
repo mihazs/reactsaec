@@ -67,7 +67,7 @@ Recomendo que extraia o arquivo zip no C:\cmder
 1. Pressione "Ctrl" + "," para acessar as contigurações do vscode
 2. Pesquise por settings.json
 3. Clique em "Edit in settings.json" ou "Editar em settings.json"
-4. Adicione ou modifique as seguintes variáveis no arquivo de configuração e substitua todos os ` [cmder_root] ` abaixo com o seu diretório de instalação do cmder. Se você extraiu o cmder no C:\cmder, seu diretório de instalação será: ` C:\\cmder `:
+4. Adicione ou modifique as seguintes variáveis no arquivo de configuração e substitua todos os ``` [cmder_root] ``` abaixo com o seu diretório de instalação do cmder. Se você extraiu o cmder no C:\cmder, seu diretório de instalação será: ``` C:\\cmder ```:
 
 ```json
   "terminal.integrated.shell.windows": "cmd.exe",
