@@ -15,9 +15,9 @@ Os complementos nesta IDE são mais que recursos extras, elas conseguem ajudar o
 Para ativar e instalar uma nova extensão, basta clicar no último ícone da barra lateral de ferramentas do Visual Studio Code. Será mostrado inicialmente as extensões mais populares. Para instalar, é só escolher a extensão, verificar sua documentação básica e clicar no botão “Install” ou "Instalar". Depois disso é só começar a utilizar o novo recurso.
 
 Extensões recomendadas:
-ESLint
-ES7 React/Redux/React-Native/JS snippets
-prisma.vscode-graphql
+1. ESLint
+2. ES7 React/Redux/React-Native/JS snippets
+3. prisma.vscode-graphql
 
 
 #### Instalação do NodeJS
